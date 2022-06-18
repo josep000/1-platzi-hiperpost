@@ -3,5 +3,41 @@ body
     color:deeppink;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: black;
+    /* background-color: black; */
+}
+
+#cabecera
+{
+    background: #33A;
+    color: white;
+    margin: 0;
+    padding: 1em;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    box-shadow: -1px 15px 34px -4px rgba(0,0,0,0.41);
+    -webkit-box-shadow: -1px 15px 34px -4px rgba(0,0,0,0.41);
+    -moz-box-shadow: -1px 15px 34px -4px rgba(0,0,0,0.41);
+
+}
+
+#cabecera #tagline{
+    font-weight: normal;
+    font-size: 0.8em;
+    margin: 0 0 0 1em;
+    color: yellow;
+}
+
+#container
+{
+    width: 90%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
 }
