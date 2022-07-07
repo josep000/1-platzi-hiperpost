@@ -8,7 +8,7 @@ body
 
 #cabecera
 {
-    background: #33A;
+    background: rgb(89, 170, 51);
     color: white;
     margin: 0;
     padding: 1em;
@@ -26,6 +26,13 @@ body
     font-size: 0.8em;
     margin: 0 0 0 1em;
     color: yellow;
+}
+
+#laptop-logo{
+    padding: 0,5em;
+    max-height: 150px;
+    /* max-width: 200px; */
+    object-fit: contain;
 }
 
 #container
