@@ -1,15 +1,19 @@
 body
 {
-    color:deeppink;
+    color:rgb(0, 255, 0);
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    /* background-color: black; */
+    background-color: rgb(58, 58, 58);
 }
 
 #cabecera
 {
-    background: rgb(89, 170, 51);
-    color: white;
+    /* background: rgb(0, 0, 0); */
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,85,121,1) 62%, rgba(0,176,223,1) 95%, rgba(0,212,255,1) 100%);
+
+
+    color: rgb(13, 255, 0);
     margin: 0;
     padding: 1em;
     font-size: 2em;
@@ -25,7 +29,8 @@ body
     font-weight: normal;
     font-size: 0.8em;
     margin: 0 0 0 1em;
-    color: yellow;
+    color: rgb(255, 0, 0);
+
 }
 
 #laptop-logo{
@@ -33,6 +38,7 @@ body
     max-height: 150px;
     /* max-width: 200px; */
     object-fit: contain;
+    background: radial-gradient(circle, rgba(0,255,42,0.8575805322128851) 4%, rgba(223,0,0,0) 22%);
 }
 
 #container
@@ -50,8 +56,9 @@ body
 }
 
 #footer{
-    background: #777;
-    color:aqua;
+
+    color:rgb(0, 255, 0);
     text-align: center;
     padding: 10px;
+    background: linear-gradient(180deg, rgba(223,0,0,0) 50%, rgba(0,255,42,0.8575805322128851) 100%);
 }
