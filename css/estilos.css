@@ -60,5 +60,6 @@ body
     color:rgb(0, 255, 0);
     text-align: center;
     padding: 10px;
-    background: linear-gradient(180deg, rgba(223,0,0,0) 50%, rgba(0,255,42,0.8575805322128851) 100%);
+    background: rgb(223,0,0);
+    background: linear-gradient(180deg, rgba(223,0,0,0) 0%, rgba(255,0,0,1) 50%, rgba(223,0,0,0) 97%);
 }
