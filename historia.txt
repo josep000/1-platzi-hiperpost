@@ -13,7 +13,13 @@ AGREGANDO DESDE LAPTOP EPUGNER
 MASTER 1
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 MASTER 2
 =======
 EXPERIMENTO 1
 >>>>>>> ddc7976 (Experimento 1)
+=======
+EXPERIMENTO 1
+
+EXPERIMENTO 2
+>>>>>>> 495f0a5 (Experimento 2)
