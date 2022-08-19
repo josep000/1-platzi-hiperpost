@@ -12,4 +12,8 @@ AGREGANDO DESDE LAPTOP EPUGNER
 
 MASTER 1
 
+<<<<<<< HEAD
 MASTER 2
+=======
+EXPERIMENTO 1
+>>>>>>> ddc7976 (Experimento 1)
